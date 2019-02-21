@@ -1,0 +1,1 @@
+var web = document.querySelector('#img');
